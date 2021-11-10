@@ -1,0 +1,1 @@
+let isfunction = require("./exportFunction");
